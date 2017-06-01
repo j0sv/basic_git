@@ -1,2 +1,2 @@
 A new  text.
-A ne row in my test file. 
+A new row in my test file. 
